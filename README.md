@@ -1,4 +1,9 @@
 # LZEX
-This is the first of my Recreational Programs. I have no interest in anyone using it but it is rather all for the love of coding and also me trying to disassociate myself from other peoples programs that do not suit my needs.
-LZEX is an executable compression tool written from scratch that packs binaries into a smaller, self-extracting format. It aims to provide efficient compression, fast startup times, and a clean, extensible architecture without relying on external compression libraries. Designed as both a practical utility and a systems programming project, LZEX serves as a foundation for exploring executable formats, compression algorithms, and loader design.
 
+LZEX is the first project in my **Recreational Programs** collection—a series of software projects built primarily for the enjoyment of systems programming, experimentation, and learning.
+
+Rather than relying on existing tools, I prefer building software from first principles to better understand how it works and to create tools that fit my own workflow and requirements. While others are welcome to explore or use these projects, they are first and foremost an opportunity to deepen my understanding of low-level software engineering.
+
+LZEX is an executable compression tool written entirely from scratch. It packs binaries into a smaller, self-extracting format with an emphasis on efficient compression, fast startup times, and a clean, extensible architecture. The project avoids external compression libraries and instead implements its own algorithms and supporting infrastructure.
+
+Beyond being a practical utility, LZEX serves as a systems programming project exploring topics such as executable formats, lossless compression algorithms, binary serialization, bit-level I/O, and executable loader design.
